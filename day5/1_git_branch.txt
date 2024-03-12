@@ -13,4 +13,5 @@
 5. git merge <branch_name>
     => Merges the changes from <branch_name> to the current branch
 
+6.
 
